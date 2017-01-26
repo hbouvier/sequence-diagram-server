@@ -1,0 +1,14 @@
+{
+  "name": "sequence-diagram-server",
+  "version": "1.0.0",
+  "description": "Sequence Diagram Web Server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mirv": "0.0.2"
+  }
+}
